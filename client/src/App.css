@@ -1,0 +1,9 @@
+.App {
+  box-sizing: border-box;
+  margin: 0 auto;
+
+}
+
+.MuiFormHelperText-root {
+  color: red !important
+}
